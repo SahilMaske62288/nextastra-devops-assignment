@@ -49,6 +49,7 @@ nextastra-devops-assignment/
   * Installs Node.js dependencies
   * Starts the app using PM2
 * Jenkins job verified successfully.
+  ![image alt](https://github.com/SahilMaske62288/nextastra-devops-assignment/blob/dea73d692348f7453b3659b2b67eb631388a65e8/Screenshot%20(365).png)
 
 ### ✅ 3. Matrix-Based Security in Jenkins
 
