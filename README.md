@@ -78,6 +78,8 @@ nextastra-devops-assignment/
   * `nginx.conf`
   * Jenkins config notes
 
+![image_alt](https://github.com/SahilMaske62288/nextastra-devops-assignment/blob/1e711b5fa7b44d182a8427e659835a0a88201ea8/Screenshot%202025-08-06%20144933.png)
+
 ---
 
 ## 💻 Technologies Used
