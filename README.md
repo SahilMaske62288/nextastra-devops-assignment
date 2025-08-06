@@ -80,15 +80,6 @@ nextastra-devops-assignment/
 
 ---
 
-## 📸 Screenshots
-
-* Jenkins job build success (see repo)
-* Web UI running at DuckDNS subdomain
-* Matrix-based Jenkins role permissions
-* PM2 list output showing active Node.js app
-
----
-
 ## 💻 Technologies Used
 
 * **AWS EC2 (Ubuntu Server)**
@@ -117,7 +108,7 @@ nextastra-devops-assignment/
 * 🔍 Verified each component through testing and debugging.
 * 📂 Repository is structured and clean for recruiter review.
 * 🚀 Hosted the app under a branded UI using `nextastra-dev.duckdns.org`
-
+![image_alt](https://github.com/SahilMaske62288/nextastra-devops-assignment/blob/9d0ab47b932afb1c244e9a95f73495218f4cb05a/Screenshot%202025-08-07%20003507.png)
 ---
 
 Thank you for this opportunity! 🙌
