@@ -109,6 +109,8 @@ nextastra-devops-assignment/
 * 📂 Repository is structured and clean for recruiter review.
 * 🚀 Hosted the app under a branded UI using `nextastra-dev.duckdns.org`
 ![image_alt](https://github.com/SahilMaske62288/nextastra-devops-assignment/blob/9d0ab47b932afb1c244e9a95f73495218f4cb05a/Screenshot%202025-08-07%20003507.png)
+
+![image_alt](https://github.com/SahilMaske62288/nextastra-devops-assignment/blob/20a37afbc1313882fbe5df45f40b0d76baf537a2/Screenshot%202025-08-07%20003534.png)
 ---
 
 Thank you for this opportunity! 🙌
